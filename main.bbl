@@ -1,0 +1,46 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{monetizationOfSurveillandeCapacitiesModel}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bea5f23efe0b3e666c22a6607532516c}{%
+           family={Zuboff},
+           familyi={Z\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{bea5f23efe0b3e666c22a6607532516c}
+      \strng{fullhash}{bea5f23efe0b3e666c22a6607532516c}
+      \strng{bibnamehash}{bea5f23efe0b3e666c22a6607532516c}
+      \strng{authorbibnamehash}{bea5f23efe0b3e666c22a6607532516c}
+      \strng{authornamehash}{bea5f23efe0b3e666c22a6607532516c}
+      \strng{authorfullhash}{bea5f23efe0b3e666c22a6607532516c}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power: Barack Obama's Books of 2019}
+      \field{year}{2019}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
